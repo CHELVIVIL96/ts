@@ -1,0 +1,11 @@
+.body-components-container{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: $background-color-variant;
+    color: #333;
+    top: 70px;
+    left: 300px;
+    z-index: -200;
+    
+}
